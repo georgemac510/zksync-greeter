@@ -16,3 +16,6 @@ contract Greeter {
         greeting = _greeting;
     }
 }
+
+// zkSync address: 0x4DF2DC35a8C7541292Aa8c64F21792516fdD28B9
+// https://zksync2-testnet.zkscan.io/address/0x4DF2DC35a8C7541292Aa8c64F21792516fdD28B9/transactions
